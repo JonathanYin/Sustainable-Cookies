@@ -11,6 +11,9 @@ body {
   animation: fadeIn 5s;
 }
 
+/* 
+* Fade-in effect for site load-in
+*/
 @keyframes fadeIn {
   0% { opacity: 0; }
   100% { opacity: 1; }
@@ -98,6 +101,9 @@ body {
   opacity: 0.1;
 }
 
+/* 
+* Lower opacity of menu items upon hover, except item being hovered
+*/
 #menu-items:hover > .menu-item {
   opacity: 0.3;
 }
