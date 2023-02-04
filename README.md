@@ -7,3 +7,9 @@ Our overarching goal is to create a platform which makes learning and incorporat
 We know that there are food choices that can be made that have a lower carbon footprint than others. Many efforts have been made to turn the population towards these diets and options. In San Diego there are organizations that partner with communities to create and cultivate community gardens. There has been a rise in environmental vegans, where the core belief of the diet is environmental concerns rather than specism.
 
 As humans, we are all faced with the decision of choosing what to eat multiple times each day. With the looming reality of the climate crisis, this everyday choice has now become an important way in which we can contribute to combat a dire future. We ourselves are now university students responsible for grocery shopping and cooking for ourselves, so these food choices are a huge part of our lives. As we transition into the next stages of adulthood and make independent choices, we hope to become more knowledgeable on sustainability and better address the issues of climate change in our daily lives.
+
+## Usage
+
+### View Application
+
+Visit our [website](https://syn100-wi23-team-6.github.io/Sustainable-Cookies/).
