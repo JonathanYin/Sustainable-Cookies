@@ -10,3 +10,7 @@ Array.from(document.getElementsByClassName("menu-item"))
 document.querySelector('#learn').addEventListener('click', function(e) {
   window.location.href = 'sustainability.html';
 }, false);
+
+document.querySelector('#about').addEventListener('click', function(e) {
+  window.location.href = 'about.html';
+}, false);
