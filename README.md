@@ -13,3 +13,7 @@ As humans, we are all faced with the decision of choosing what to eat multiple t
 ### View Application
 
 Visit our [website](https://syn100-wi23-team-6.github.io/Sustainable-Cookies/).
+
+### For Development
+
+Before contributing, view our [Contributing Guidelines](https://github.com/SYN100-WI23-Team-6/Sustainable-Cookies/blob/main/docs/contributing.md)
