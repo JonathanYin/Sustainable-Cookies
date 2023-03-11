@@ -14,3 +14,7 @@ document.querySelector('#learn').addEventListener('click', function(e) {
 document.querySelector('#about').addEventListener('click', function(e) {
   window.location.href = 'about.html';
 }, false);
+
+document.querySelector('#play').addEventListener('click', function(e) {
+  window.location.href = 'play.html';
+}, false);
